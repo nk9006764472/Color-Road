@@ -15,11 +15,11 @@ A:/Unity Projects/Github/Color-Road/Color Road
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62169
+49759
 Successfully changed project path to: A:/Unity Projects/Github/Color-Road/Color Road
 A:/Unity Projects/Github/Color-Road/Color Road
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 24.95 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 22.16 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path A:/Installed Applications/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -35,51 +35,2122 @@ Initialize mono
 Mono path[0] = 'A:/Installed Applications/2020.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'A:/Installed Applications/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'A:/Installed Applications/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: A:/Installed Applications/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000963 seconds.
+Registered in 0.000962 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 23.97 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 22.13 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.295 seconds
+- Completed reload, in  1.201 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000477 seconds.
+Registered in 0.001962 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.961 seconds
+- Completed reload, in  0.728 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.1 MB.
-System memory in use after: 57.1 MB.
+Unloading 1134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.8 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
-Total: 1.491800 ms (FindLiveObjects: 0.140000 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.249400 ms  DeleteObjects: 0.061300 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.813900 ms (FindLiveObjects: 0.206700 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.430700 ms  DeleteObjects: 0.079200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
+  path: Assets/Demigiant
+  artifactKey: Guid(c58e3cbe62943934f800c6ebc53b089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demigiant using Guid(c58e3cbe62943934f800c6ebc53b089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdbc53c607e314a15cdf04667b9c2e8') in 0.007994 seconds
+  Import took 0.010191 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000458 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 2.114400 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.061800 ms MarkObjects: 1.786500 ms  DeleteObjects: 0.055700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1184 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.4 MB.
+System memory in use after: 59.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 2.075200 ms (FindLiveObjects: 0.143500 ms CreateObjectMapping: 0.052600 ms MarkObjects: 1.827000 ms  DeleteObjects: 0.050900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 2.306900 ms (FindLiveObjects: 0.199200 ms CreateObjectMapping: 0.067400 ms MarkObjects: 1.982400 ms  DeleteObjects: 0.056100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1203 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 2.190900 ms (FindLiveObjects: 0.175200 ms CreateObjectMapping: 0.064000 ms MarkObjects: 1.894100 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1203 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 2.194300 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.063600 ms MarkObjects: 1.892700 ms  DeleteObjects: 0.063600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 328.629057 seconds.
+  path: Assets/Amazing Assets
+  artifactKey: Guid(e5bd44a96118635418b57aebcee71fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets using Guid(e5bd44a96118635418b57aebcee71fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132bf0fa0fcbafa4b1e7c9dfa014dceb') in 0.009853 seconds
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.391807 seconds.
+  path: Assets/Amazing Assets/Curved World
+  artifactKey: Guid(34ce41f61d13380448b3783e26df15ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World using Guid(34ce41f61d13380448b3783e26df15ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce31af9667b21e7d1e55cda9347b1d6') in 0.006760 seconds
+  Import took 0.009412 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1250 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1711.
+Total: 2.890400 ms (FindLiveObjects: 0.161300 ms CreateObjectMapping: 0.052100 ms MarkObjects: 2.299000 ms  DeleteObjects: 0.376200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1250 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1714.
+Total: 2.842000 ms (FindLiveObjects: 0.184400 ms CreateObjectMapping: 0.059700 ms MarkObjects: 2.233900 ms  DeleteObjects: 0.361900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002165 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.692 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1250 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1717.
+Total: 1.946600 ms (FindLiveObjects: 0.148100 ms CreateObjectMapping: 0.038700 ms MarkObjects: 1.361600 ms  DeleteObjects: 0.396400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003241 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 2.710700 ms (FindLiveObjects: 0.179900 ms CreateObjectMapping: 0.054700 ms MarkObjects: 2.073800 ms  DeleteObjects: 0.400200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.5 MB.
+System memory in use after: 38.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 2.528000 ms (FindLiveObjects: 0.189500 ms CreateObjectMapping: 0.060200 ms MarkObjects: 1.857700 ms  DeleteObjects: 0.418800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 2.072500 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.562400 ms  DeleteObjects: 0.316200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.5 MB.
+System memory in use after: 38.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 2.900900 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.056000 ms MarkObjects: 2.107300 ms  DeleteObjects: 0.480800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.883 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 1.764700 ms (FindLiveObjects: 0.141900 ms CreateObjectMapping: 0.046800 ms MarkObjects: 1.277900 ms  DeleteObjects: 0.297100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1990.683384 seconds.
+  path: Assets/Modern UI Pack/Scenes/New UI Manager.asset
+  artifactKey: Guid(a97356df3a4b39e45ae05e263cc399b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Scenes/New UI Manager.asset using Guid(a97356df3a4b39e45ae05e263cc399b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2731a8bdbc449bca9edfb5c62b9a82') in 0.041682 seconds
+  Import took 0.043735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026441 seconds.
+  path: Assets/Modern UI Pack/Scenes/New UI Manager.asset
+  artifactKey: Guid(a97356df3a4b39e45ae05e263cc399b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Scenes/New UI Manager.asset using Guid(a97356df3a4b39e45ae05e263cc399b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2731a8bdbc449bca9edfb5c62b9a82') in 0.001838 seconds
+  Import took 0.004355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.393207 seconds.
+  path: Assets/Modern UI Pack/Scenes
+  artifactKey: Guid(a6f7e748e78afd44db6c1ec80947f017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Scenes using Guid(a6f7e748e78afd44db6c1ec80947f017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9701091bfcb6eb266264b2513ab2708') in 0.006854 seconds
+  Import took 0.009334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.717846 seconds.
+  path: Assets/Greed Games
+  artifactKey: Guid(ee1f73d9e209e2a49973fae0e33be3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games using Guid(ee1f73d9e209e2a49973fae0e33be3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc2f2c97c782ff7d51973d9b79f53e1') in 0.005841 seconds
+  Import took 0.009597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.349113 seconds.
+  path: Assets/Greed Games/Scenes
   artifactKey: Guid(bb36b18b5c007bf4bb786530b1a62631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(bb36b18b5c007bf4bb786530b1a62631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227f2a88e6adc4d838e2eefb2df0a1a1') in 0.010132 seconds
-  Import took 0.013991 seconds .
+Start importing Assets/Greed Games/Scenes using Guid(bb36b18b5c007bf4bb786530b1a62631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0fde2c116b190aa9b16e31fe55dac4') in 0.002433 seconds
+  Import took 0.006095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002136 seconds.
+  path: Assets/Greed Games/Scenes
+  artifactKey: Guid(bb36b18b5c007bf4bb786530b1a62631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scenes using Guid(bb36b18b5c007bf4bb786530b1a62631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0fde2c116b190aa9b16e31fe55dac4') in 0.003355 seconds
+  Import took 0.006438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.294420 seconds.
+  path: Assets/Greed Games/Scenes/Main Scene.unity
+  artifactKey: Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scenes/Main Scene.unity using Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6816d9b75b0fe141586beedb0a0cd8bc') in 0.005661 seconds
+  Import took 0.008675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/Greed Games/Scenes/Main Scene.unity
+  artifactKey: Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scenes/Main Scene.unity using Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6816d9b75b0fe141586beedb0a0cd8bc') in 0.001915 seconds
+  Import took 0.004208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.628698 seconds.
+  path: Assets/Curved World/Editor
+  artifactKey: Guid(12a0ed2f64fd6654697aa6ed94fb5407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Curved World/Editor using Guid(12a0ed2f64fd6654697aa6ed94fb5407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127a50d1d1434a00e13c8cb4d471e0fd') in 0.006588 seconds
+  Import took 0.008858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.562796 seconds.
+  path: Assets/Curved World/Editor/Installer
+  artifactKey: Guid(69d4ea255387463409f94ec122b2058d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Curved World/Editor/Installer using Guid(69d4ea255387463409f94ec122b2058d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f032bc07302f9de7fd852533d362ba9e') in 0.005367 seconds
+  Import took 0.008064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.572835 seconds.
+  path: Assets/Curved World/Editor/Installer/Built-in.unitypackage
+  artifactKey: Guid(e569408a9625b234eb81ea0623fa257d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Curved World/Editor/Installer/Built-in.unitypackage using Guid(e569408a9625b234eb81ea0623fa257d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3170c5d90853d5788d2b0e8bec8eca') in 0.029787 seconds
+  Import took 0.032041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.847445 seconds.
+  path: Assets/Curved World/Editor/Installer/High Definition.unitypackage
+  artifactKey: Guid(d80e9f1a55ea4cd43b62fadbe25f35fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Curved World/Editor/Installer/High Definition.unitypackage using Guid(d80e9f1a55ea4cd43b62fadbe25f35fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bbcfc865b8a6ace648d3a8585ae3a4') in 0.007396 seconds
+  Import took 0.009629 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Amazing Assets/Curved World/Unlit (Outline)': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/Unlit' not found
+Shader 'Amazing Assets/Curved World/Mobile/Bumped Diffuse': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Shader 'Amazing Assets/Curved World/Sprites/Diffuse': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Shader 'Amazing Assets/Curved World/Mobile/VertexLit (Only Directional Lights)': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Shader 'Amazing Assets/Curved World/Mobile/Bumped Specular (1 Directional Realtime Light)': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Shader 'Amazing Assets/Curved World/Mobile/Bumped Specular': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Shader 'Amazing Assets/Curved World/One Directional Light (Outline)': fallback shader 'Hidden/Amazing Assets/Curved World/Fallback/VertexLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1778.
+Total: 4.803300 ms (FindLiveObjects: 0.355500 ms CreateObjectMapping: 0.072700 ms MarkObjects: 1.630000 ms  DeleteObjects: 2.741900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 139.071333 seconds.
+  path: Assets/Modern UI Pack
+  artifactKey: Guid(45d48ab857cd9274bb327c119d95777a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack using Guid(45d48ab857cd9274bb327c119d95777a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13055dc146123153c4ec58d1db6f8f23') in 0.008861 seconds
+  Import took 0.011409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.751852 seconds.
+  path: Assets/Amazing Assets
+  artifactKey: Guid(9c7782eacdae2f9498b088b8bd1f5d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets using Guid(9c7782eacdae2f9498b088b8bd1f5d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ae4f419a403ab9cb11787dfd720f94') in 0.007500 seconds
+  Import took 0.009859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.817102 seconds.
+  path: Assets/Amazing Assets/Curved World
+  artifactKey: Guid(98737639186fcfc4289e4d0cbd4f1c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World using Guid(98737639186fcfc4289e4d0cbd4f1c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e19b245c3bf673c88e0babaedf64d4') in 0.006024 seconds
+  Import took 0.008290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.431277 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes
+  artifactKey: Guid(df5b0fd9ee20ef44386fa5c6991d10e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes using Guid(df5b0fd9ee20ef44386fa5c6991d10e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d5bfad2056fb3946a3b94df11fcdc0') in 0.007481 seconds
+  Import took 0.009977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.628033 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files
+  artifactKey: Guid(071cabaf37ecd434ca6fdfbcea4065c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files using Guid(071cabaf37ecd434ca6fdfbcea4065c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d3c214e7e2e55586b6d1985c448386') in 0.006353 seconds
+  Import took 0.008877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.842176 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Classic Runner (X Positive).unity
+  artifactKey: Guid(9513a6995ad7809498e19f9ba2ccd2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Classic Runner (X Positive).unity using Guid(9513a6995ad7809498e19f9ba2ccd2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc198a3b4ae20f508925a0aadd32cd02') in 0.013569 seconds
+  Import took 0.015607 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 4.059000 ms (FindLiveObjects: 0.193100 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.282500 ms  DeleteObjects: 2.532800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.687 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1784.
+Total: 10.216200 ms (FindLiveObjects: 0.638000 ms CreateObjectMapping: 0.152600 ms MarkObjects: 3.193400 ms  DeleteObjects: 6.227900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 153.355236 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Cylindrical Rolloff (Z).unity
+  artifactKey: Guid(97b467193b66f034fb2cf13629c1a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Cylindrical Rolloff (Z).unity using Guid(97b467193b66f034fb2cf13629c1a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c19a8f445cf82a5a1e2b4f81c569aaf') in 0.019412 seconds
+  Import took 0.022987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.688362 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Cylindrical Tower (X).unity
+  artifactKey: Guid(ecfe8fbd30724b7468fb310c55f577bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Cylindrical Tower (X).unity using Guid(ecfe8fbd30724b7468fb310c55f577bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d3d84f50c549e7a48a4439bc44b34a') in 0.010749 seconds
+  Import took 0.013877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.705305 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Little Planet (Y).unity
+  artifactKey: Guid(f9f195a5cda0d9d478e03f747ffb2e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Little Planet (Y).unity using Guid(f9f195a5cda0d9d478e03f747ffb2e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcecebcf4d15933a3d6177a05fbea27b') in 0.007951 seconds
+  Import took 0.010420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.233780 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Spiral Vertical.unity
+  artifactKey: Guid(2c736a98a276b8a46b73be72c59b3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Spiral Vertical.unity using Guid(2c736a98a276b8a46b73be72c59b3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0000db56ae6c647f437d05fac867f31') in 0.008690 seconds
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.950547 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Spiral Horizontal Double (X).unity
+  artifactKey: Guid(49116db8a964e2e4faa0607826849fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Spiral Horizontal Double (X).unity using Guid(49116db8a964e2e4faa0607826849fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45d2a712bb7353584bdb943903954b0') in 0.007368 seconds
+  Import took 0.009867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.294102 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Corridor).unity
+  artifactKey: Guid(d6361e5dec1e880499a4ba6bc1f06378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Corridor).unity using Guid(d6361e5dec1e880499a4ba6bc1f06378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb16f1fd7fc87615affb3d00e7b9d58d') in 0.012000 seconds
+  Import took 0.015130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001960 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Corridor).unity
+  artifactKey: Guid(d6361e5dec1e880499a4ba6bc1f06378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Corridor).unity using Guid(d6361e5dec1e880499a4ba6bc1f06378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb16f1fd7fc87615affb3d00e7b9d58d') in 0.002838 seconds
+  Import took 0.006822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.064237 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway Hills).unity
+  artifactKey: Guid(996dbbee7d4ca62428a9149ee8fde998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway Hills).unity using Guid(996dbbee7d4ca62428a9149ee8fde998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a99006c09f4c2dd9156414362749711') in 0.009645 seconds
+  Import took 0.011864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.658622 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway).unity
+  artifactKey: Guid(3b363903953490b46baf394a20e985ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway).unity using Guid(3b363903953490b46baf394a20e985ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdabf706bb753a4081f36eb9bce1fa8f') in 0.007911 seconds
+  Import took 0.010948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003092 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway).unity
+  artifactKey: Guid(3b363903953490b46baf394a20e985ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Bend - Twisted Spiral (Highway).unity using Guid(3b363903953490b46baf394a20e985ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdabf706bb753a4081f36eb9bce1fa8f') in 0.007767 seconds
+  Import took 0.012875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.202559 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Non - Shader Bending (Scene 1).unity
+  artifactKey: Guid(7d6e5da6389a2f5488b0642e64384f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Non - Shader Bending (Scene 1).unity using Guid(7d6e5da6389a2f5488b0642e64384f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b162e55bb8a17d1817616efb239c5b34') in 0.008004 seconds
+  Import took 0.010298 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.7 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1787.
+Total: 4.190900 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.277200 ms  DeleteObjects: 2.625600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 177.535171 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Non - Shader Bending (Scene 2).unity
+  artifactKey: Guid(0e8e20ac80a7d1046aa2295d682ff289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Non - Shader Bending (Scene 2).unity using Guid(0e8e20ac80a7d1046aa2295d682ff289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c16156725699a8f123139602649e5d7') in 0.014857 seconds
+  Import took 0.017405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.230222 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Tutorial #1 - Introduction.unity
+  artifactKey: Guid(5e7dbfb9aa5bf8d4c9e1e8fc0c181d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Tutorial #1 - Introduction.unity using Guid(5e7dbfb9aa5bf8d4c9e1e8fc0c181d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6b0b578e71a41418454b0060f5f8b8') in 0.008071 seconds
+  Import took 0.010566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 494.872773 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/World.png
+  artifactKey: Guid(aee454fcb90274c42b8096a03bf7a1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/World.png using Guid(aee454fcb90274c42b8096a03bf7a1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0ec8bc9c7e5f1be04e9868a2ad8d61') in 0.111588 seconds
+  Import took 0.114107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/YouTube.png
+  artifactKey: Guid(adcfd88c3af8d374791e42d825351485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/YouTube.png using Guid(adcfd88c3af8d374791e42d825351485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b3039e9034835901cd759bebfcf27a') in 0.015194 seconds
+  Import took 0.017576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Warning.png
+  artifactKey: Guid(2a19aaadcf7844142a73ce60950ec353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Warning.png using Guid(2a19aaadcf7844142a73ce60950ec353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aadc87a7c0e9dd29b08183c6e48485e') in 0.012704 seconds
+  Import took 0.017988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Vertical Shadow.png
+  artifactKey: Guid(4588d5e6aeea92d4b86bd1e976c99baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Vertical Shadow.png using Guid(4588d5e6aeea92d4b86bd1e976c99baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f084c449ec120094077c4d18fe44845') in 0.014974 seconds
+  Import took 0.017722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Video.png
+  artifactKey: Guid(f244bcedbf1c0334f9374ae6549fd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Video.png using Guid(f244bcedbf1c0334f9374ae6549fd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15aae04c7699dc6baf5563b2cb5cf50') in 0.015544 seconds
+  Import took 0.018067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020184 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Video.png
+  artifactKey: Guid(f244bcedbf1c0334f9374ae6549fd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Video.png using Guid(f244bcedbf1c0334f9374ae6549fd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15aae04c7699dc6baf5563b2cb5cf50') in 0.010087 seconds
+  Import took 0.012901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082715 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Store Bag.png
+  artifactKey: Guid(e7f5d551fd1925040bd01a8ec66c0ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Store Bag.png using Guid(e7f5d551fd1925040bd01a8ec66c0ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e25855e09dc3468a91dbde7f7f21a3') in 0.010819 seconds
+  Import took 0.013208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Trash.png
+  artifactKey: Guid(8c998213d53883d4b8fdf7a3eb3c2909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Trash.png using Guid(8c998213d53883d4b8fdf7a3eb3c2909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820a15ed3c80f4092503e91b4da24258') in 0.015662 seconds
+  Import took 0.018079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Twitter.png
+  artifactKey: Guid(1b35732bebfbd224abab7e97ebeb6d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Twitter.png using Guid(1b35732bebfbd224abab7e97ebeb6d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af729055054875e7bf715aec421fdd9') in 0.016422 seconds
+  Import took 0.018517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/User.png
+  artifactKey: Guid(54480c8535d545149b22ee8bfcaad6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/User.png using Guid(54480c8535d545149b22ee8bfcaad6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc06cabf5950afda30d80ec63f6c582') in 0.015491 seconds
+  Import took 0.017516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031999 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Star Filled.png
+  artifactKey: Guid(9df0f4d8c02014347ad2d7de427e0ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Star Filled.png using Guid(9df0f4d8c02014347ad2d7de427e0ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32226b7eb5523da483f9fc31ad011a2') in 0.013722 seconds
+  Import took 0.015895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Steam.png
+  artifactKey: Guid(ca46ef38b206f174da804447cfef3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Steam.png using Guid(ca46ef38b206f174da804447cfef3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de561222422c7f90e5f6ace85f1ebd9f') in 0.019111 seconds
+  Import took 0.021413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009009 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Steam.png
+  artifactKey: Guid(ca46ef38b206f174da804447cfef3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Steam.png using Guid(ca46ef38b206f174da804447cfef3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de561222422c7f90e5f6ace85f1ebd9f') in 0.015577 seconds
+  Import took 0.018316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.420072 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Square Shadow (200ppu).png
+  artifactKey: Guid(5a2cc1793ca8c1e4381df95290d5022a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Square Shadow (200ppu).png using Guid(5a2cc1793ca8c1e4381df95290d5022a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17b30fe6117d5d4279a3daa8d8121dc') in 0.013154 seconds
+  Import took 0.017858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Sand Clock Sand.png
+  artifactKey: Guid(97814927e69de9c45ac122c187eacb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Sand Clock Sand.png using Guid(97814927e69de9c45ac122c187eacb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a15b2f19494595594b31df1c72bb448') in 0.012963 seconds
+  Import took 0.017360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 16px.png
+  artifactKey: Guid(eaea90a025355c14b871008ae1ab621c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 16px.png using Guid(eaea90a025355c14b871008ae1ab621c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854ed814bc3298856c28b15a08d4a0bb') in 0.015431 seconds
+  Import took 0.019257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 8px.png
+  artifactKey: Guid(b155e3f4ed65dbf48a63147795b88097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 8px.png using Guid(b155e3f4ed65dbf48a63147795b88097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad17c515f15ecdc233f80550ada5960') in 0.016301 seconds
+  Import took 0.023192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 14px.png
+  artifactKey: Guid(ca51c3340cb2d37489bcb1f1f5396589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 14px.png using Guid(ca51c3340cb2d37489bcb1f1f5396589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf910afeafc0da5c9708642a38d0686') in 0.013787 seconds
+  Import took 0.016781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 12px.png
+  artifactKey: Guid(ff3d95e7e84ef024a998874a1a7b4479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 12px.png using Guid(ff3d95e7e84ef024a998874a1a7b4479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0b7546dcc3a437e7d001132e4527b6') in 0.016902 seconds
+  Import took 0.019559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 16px (500ppu).png
+  artifactKey: Guid(f8ae8c6f4da93db408536798e4dc96cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 16px (500ppu).png using Guid(f8ae8c6f4da93db408536798e4dc96cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83dcf30b91d41945e461f3734bd11190') in 0.011624 seconds
+  Import took 0.013877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 18px.png
+  artifactKey: Guid(210c9a2590bc76644b3043743da41996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 18px.png using Guid(210c9a2590bc76644b3043743da41996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ff08f9c25dfd45fb823adc4dd434cd') in 0.013009 seconds
+  Import took 0.015059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Settings.png
+  artifactKey: Guid(a81b811d419055c43a7ddc04ce938fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Settings.png using Guid(a81b811d419055c43a7ddc04ce938fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35a0cf12bc53305a10809be06e48b6a') in 0.008740 seconds
+  Import took 0.010670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (300ppu).png
+  artifactKey: Guid(5765424b27ee5f8408478922c82d99a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (300ppu).png using Guid(5765424b27ee5f8408478922c82d99a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131f49005e7951aad69fbb575ff7d62a') in 0.007339 seconds
+  Import took 0.009497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Basic/Square.png
+  artifactKey: Guid(b325a13e94f3bac4199e75b91fa98449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Basic/Square.png using Guid(b325a13e94f3bac4199e75b91fa98449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3d14721ece5bb8f4785c9e71011055') in 0.008370 seconds
+  Import took 0.012473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 20px.png
+  artifactKey: Guid(dcbffc956c3007348a9d59e752d2d7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 20px.png using Guid(dcbffc956c3007348a9d59e752d2d7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9018078db1c9ebccd61fad8bdd6ca308') in 0.008394 seconds
+  Import took 0.010428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Screen.png
+  artifactKey: Guid(2ea2a410821d1e74a8b58fd3ae84d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Screen.png using Guid(2ea2a410821d1e74a8b58fd3ae84d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60718806518218861df28931c1f6934e') in 0.009852 seconds
+  Import took 0.012115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Settings Filled.png
+  artifactKey: Guid(ce4f0f0804dfd3b4a84ad79898a71fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Settings Filled.png using Guid(ce4f0f0804dfd3b4a84ad79898a71fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd871d42051315322c068b7a697eae249') in 0.008984 seconds
+  Import took 0.011089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Time/Sand Clock.png
+  artifactKey: Guid(39974175474397949a97cc2bec110ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Time/Sand Clock.png using Guid(39974175474397949a97cc2bec110ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b50ea934155459881c12f6de4787bd') in 0.008793 seconds
+  Import took 0.010676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Share.png
+  artifactKey: Guid(680d795de97417144bc422017b616f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Share.png using Guid(680d795de97417144bc422017b616f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094ce6325e9eb82855b2687b8064ea55') in 0.011156 seconds
+  Import took 0.013168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Speaker.png
+  artifactKey: Guid(930623e5548db4947b301a5816061e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Speaker.png using Guid(930623e5548db4947b301a5816061e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32ad19d48836814b197d9a9f6b7611f') in 0.008679 seconds
+  Import took 0.010769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Shield.png
+  artifactKey: Guid(138796f6771a1ba4c9a72797e7dabeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Shield.png using Guid(138796f6771a1ba4c9a72797e7dabeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57858542a5598427fcede920d98fc019') in 0.008747 seconds
+  Import took 0.010704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 14px (500ppu).png
+  artifactKey: Guid(af542a0a8ad9e534f8bb562f0fa25bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 14px (500ppu).png using Guid(af542a0a8ad9e534f8bb562f0fa25bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87269d09a1b73a7802c8e17299540baf') in 0.010127 seconds
+  Import took 0.012080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Search.png
+  artifactKey: Guid(6d669c2082983644b9d4a34c0b22b1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Search.png using Guid(6d669c2082983644b9d4a34c0b22b1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84552359c8330727ad36e86d0b61d3d') in 0.008089 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Star.png
+  artifactKey: Guid(c07549e02a2d55049906af989d15fe22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Star.png using Guid(c07549e02a2d55049906af989d15fe22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0256bb1e4340394440d0797cc9841f62') in 0.008561 seconds
+  Import took 0.010721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 5px.png
+  artifactKey: Guid(c04a63d54069e8f4bac378fe7ab6026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 5px.png using Guid(c04a63d54069e8f4bac378fe7ab6026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94d5fb32e6bfba97a27e88900bb0023') in 0.010705 seconds
+  Import took 0.012633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 10px.png
+  artifactKey: Guid(c09c98233e3767545acc1ae234af060c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Outline - Stroke 10px.png using Guid(c09c98233e3767545acc1ae234af060c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8304165a4a777f7738786f159ffe34') in 0.008040 seconds
+  Import took 0.009964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (500ppu).png
+  artifactKey: Guid(71a5b04117cb01a449bbec4ada23fa35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (500ppu).png using Guid(71a5b04117cb01a449bbec4ada23fa35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298712ad954f10000a1486c94f23380c') in 0.007704 seconds
+  Import took 0.009586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049013 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (500ppu).png
+  artifactKey: Guid(71a5b04117cb01a449bbec4ada23fa35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Filled (500ppu).png using Guid(71a5b04117cb01a449bbec4ada23fa35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298712ad954f10000a1486c94f23380c') in 0.007141 seconds
+  Import took 0.009500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044373 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyWalkSprite.png
+  artifactKey: Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyWalkSprite.png using Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d490534a236e30e03bfe8b611800c12') in 0.088218 seconds
+  Import took 0.090519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (750ppu).png
+  artifactKey: Guid(ffb6cdaad30e2f04ba0bfd3b2e366da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (750ppu).png using Guid(ffb6cdaad30e2f04ba0bfd3b2e366da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c07c6cb8118ea7d711d038ac3e40b1f') in 0.019963 seconds
+  Import took 0.023742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (225ppu).png
+  artifactKey: Guid(8aabc0d6238472d488ed3d44a7afc347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (225ppu).png using Guid(8aabc0d6238472d488ed3d44a7afc347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73e52b4d0bd1954e8f986caaec37097') in 0.014337 seconds
+  Import took 0.016301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 6px (225ppu).png
+  artifactKey: Guid(b047f7fbe28c89042968b6b488a956fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 6px (225ppu).png using Guid(b047f7fbe28c89042968b6b488a956fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5524a9057556845127b31884db739df') in 0.016621 seconds
+  Import took 0.018673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (150ppu).png
+  artifactKey: Guid(0755a77d5bd80d94eaba57a2d5d0f55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (150ppu).png using Guid(0755a77d5bd80d94eaba57a2d5d0f55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec890f32b08cef72c83df29ffb20930') in 0.014083 seconds
+  Import took 0.016156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyJumpSprite.png
+  artifactKey: Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyJumpSprite.png using Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2608f3333982acac1e944ed14b74246e') in 0.083752 seconds
+  Import took 0.086212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (250ppu).png
+  artifactKey: Guid(b1e2bb5a32fee96498075a860def4696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (250ppu).png using Guid(b1e2bb5a32fee96498075a860def4696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ab00b1a22a587eaf605b6984bc571f') in 0.012599 seconds
+  Import took 0.016035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000864 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyJumpSprite.png
+  artifactKey: Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyJumpSprite.png using Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2608f3333982acac1e944ed14b74246e') in 0.088100 seconds
+  Import took 0.093886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (900ppu).png
+  artifactKey: Guid(c0c647d8a1b24bc49b999c2a62137c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (900ppu).png using Guid(c0c647d8a1b24bc49b999c2a62137c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf794c278361c15059e310176f65097') in 0.011288 seconds
+  Import took 0.013190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRollSprite.png
+  artifactKey: Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRollSprite.png using Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b26b4b68db68b3b48befb8b952ed9e') in 0.083936 seconds
+  Import took 0.086047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (400ppu).png
+  artifactKey: Guid(bb72f5ca984e00d44aff91ecb54c2487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (400ppu).png using Guid(bb72f5ca984e00d44aff91ecb54c2487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18dcf369ef012f9abb0f9587479c4f6') in 0.016901 seconds
+  Import took 0.019356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRollSprite.png
+  artifactKey: Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRollSprite.png using Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b26b4b68db68b3b48befb8b952ed9e') in 0.091046 seconds
+  Import took 0.094083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (400ppu).png
+  artifactKey: Guid(446fd45c600b6e84c9b7d1b9982cc3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (400ppu).png using Guid(446fd45c600b6e84c9b7d1b9982cc3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ca633ff58abd16da3bc41baed849f5') in 0.017067 seconds
+  Import took 0.019488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (200ppu).png
+  artifactKey: Guid(53376d46aa93495498e77d97f3dd13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Rounded Circle Shadow (200ppu).png using Guid(53376d46aa93495498e77d97f3dd13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab26e427de82e49807acff84393daa0') in 0.016851 seconds
+  Import took 0.019414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (900ppu).png
+  artifactKey: Guid(d932c376d1c47bd46acb782ac4161de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (900ppu).png using Guid(d932c376d1c47bd46acb782ac4161de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d04bfcbe8541117107b3defe6aa005') in 0.011428 seconds
+  Import took 0.013834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (500ppu).png
+  artifactKey: Guid(98257ce5f0f5491419a1a9d14bad67e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (500ppu).png using Guid(98257ce5f0f5491419a1a9d14bad67e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc45c8a9792832e71ca40b9b3bea175c') in 0.019829 seconds
+  Import took 0.022944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (600ppu).png
+  artifactKey: Guid(a1f0628111b762a4ba22cea2c8d05a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (600ppu).png using Guid(a1f0628111b762a4ba22cea2c8d05a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa3089212aca469e5725ae27c0decd9') in 0.011406 seconds
+  Import took 0.017804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (450ppu).png
+  artifactKey: Guid(a85e0ef996389864d90fc222ee456814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle (450ppu).png using Guid(a85e0ef996389864d90fc222ee456814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10d2ecb0e404149d666321dcf467aa8') in 0.011141 seconds
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000623 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (300ppu).png
+  artifactKey: Guid(94ed127db6c44634db6082daf3b3ce2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/Rounded Circle Outline - Stroke 8px (300ppu).png using Guid(94ed127db6c44634db6082daf3b3ce2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f71062cdf8714c7291f8d8049d07aa') in 0.017710 seconds
+  Import took 0.022933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyIdleSprite.png
+  artifactKey: Guid(8fb98a6035269e64a998f9b56828fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyIdleSprite.png using Guid(8fb98a6035269e64a998f9b56828fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f574c53c4e00fc1197f985716e83538') in 0.103893 seconds
+  Import took 0.106723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyDeathSprite.png
+  artifactKey: Guid(f45a39483cf4f914a816af821c9262bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyDeathSprite.png using Guid(f45a39483cf4f914a816af821c9262bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012ef1068d303b5462a9ad72f72c3679') in 0.096578 seconds
+  Import took 0.098769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRunSprite.png
+  artifactKey: Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyRunSprite.png using Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db49e8c48d07b8dcce740542952d30e') in 0.071878 seconds
+  Import took 0.073924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyCrouchSprite.png
+  artifactKey: Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/RobotBoyCrouchSprite.png using Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b18d7ce112201278b41b51d1b6a9e6') in 0.071228 seconds
+  Import took 0.074304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.392140 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Pause.png
+  artifactKey: Guid(80694812942b91b42bc4aad99071ba7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Pause.png using Guid(80694812942b91b42bc4aad99071ba7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c5df2f7338164625caa90588e8963f') in 0.018321 seconds
+  Import took 0.020572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/PlatformWhiteSprite.png
+  artifactKey: Guid(d90a8faf6fb9540b084ef2825cc3a5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/PlatformWhiteSprite.png using Guid(d90a8faf6fb9540b084ef2825cc3a5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccba45b7597751a0d2176cbdd1ff494') in 0.011252 seconds
+  Import took 0.013378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Modern UI Pack/Textures/Demo/MUIP.png
+  artifactKey: Guid(80446df71d1bfe347bdaf2832170a76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Demo/MUIP.png using Guid(80446df71d1bfe347bdaf2832170a76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591ad9e55fb153b5ca35cece4777e207') in 0.021345 seconds
+  Import took 0.023753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message Filled.png
+  artifactKey: Guid(3ced7172b98225d42afca1f2351860f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message Filled.png using Guid(3ced7172b98225d42afca1f2351860f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0719db1016019d1fc648a304713c367d') in 0.012190 seconds
+  Import took 0.014671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Mic.png
+  artifactKey: Guid(66bf9157a68771e4a82bdfe968f08212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Mic.png using Guid(66bf9157a68771e4a82bdfe968f08212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19f484f34344aef7dc2efe3807cdb8f') in 0.012811 seconds
+  Import took 0.017728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Play.png
+  artifactKey: Guid(2f2ed1a167dc67349a42cb44a3d9b115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Play.png using Guid(2f2ed1a167dc67349a42cb44a3d9b115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef63403d6eaa7f41b35610aa9b6bc1f5') in 0.027340 seconds
+  Import took 0.029788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message Empty.png
+  artifactKey: Guid(b9d543078a3680345adc248301c8f521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message Empty.png using Guid(b9d543078a3680345adc248301c8f521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a326182f9f947e193222f757e045b45') in 0.013999 seconds
+  Import took 0.016454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Modern UI Pack/Textures/Demo/MUIP Big.png
+  artifactKey: Guid(46f64b3ded478fa408af4eeb374bcfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Demo/MUIP Big.png using Guid(46f64b3ded478fa408af4eeb374bcfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f645507a0b001d46b041a4a5d36ad59e') in 0.019698 seconds
+  Import took 0.023077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000761 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Power.png
+  artifactKey: Guid(a8cc5f0db692cb24db144d85c01b6838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Power.png using Guid(a8cc5f0db692cb24db144d85c01b6838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295daf088a309c6b9bbc4c03a33cefef') in 0.013555 seconds
+  Import took 0.018987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Modern UI Pack/Resources/Editor/MUIP Editor Light.png
+  artifactKey: Guid(211e0fc65fd3ff147b04f622187dd2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Resources/Editor/MUIP Editor Light.png using Guid(211e0fc65fd3ff147b04f622187dd2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c894e43fcf455f47bb58ff071afe511') in 0.011314 seconds
+  Import took 0.017852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Modern UI Pack/Resources/Editor/MUIP Editor Dark.png
+  artifactKey: Guid(7c235d0fbe0f2464cabb3ebb1f7fb5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Resources/Editor/MUIP Editor Dark.png using Guid(7c235d0fbe0f2464cabb3ebb1f7fb5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b62f93da407dfe9e2a821184d67a58') in 0.018427 seconds
+  Import took 0.021375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Modern UI Pack/Textures/Demo/Michsky.png
+  artifactKey: Guid(3f44dfc870c7855419d22e62c05630da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Demo/Michsky.png using Guid(3f44dfc870c7855419d22e62c05630da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fdfa85e69bada172698ee1b5383a966') in 0.011158 seconds
+  Import took 0.013533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Photo.png
+  artifactKey: Guid(27f889dcba1d16e4382107e471321a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Photo.png using Guid(27f889dcba1d16e4382107e471321a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9fddf470225c024dc339b1ac4f3c0d') in 0.016834 seconds
+  Import took 0.019166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Refresh.png
+  artifactKey: Guid(16a091c7f8ad05b4da2be8ff9b929650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Refresh.png using Guid(16a091c7f8ad05b4da2be8ff9b929650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cd2dab36fd26b49e34cb7bd66a35ab') in 0.012826 seconds
+  Import took 0.015525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Minus.png
+  artifactKey: Guid(9964955250a501b49ad0d9df1c632e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Minus.png using Guid(9964955250a501b49ad0d9df1c632e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa25803f8bfb4be7f684fe5d6387b78c') in 0.020006 seconds
+  Import took 0.022224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Phone.png
+  artifactKey: Guid(e3ac98c7b179e7b4b937034cc51b3f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Phone.png using Guid(e3ac98c7b179e7b4b937034cc51b3f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69850fd8625436503b43c16dc1609093') in 0.014671 seconds
+  Import took 0.020370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Top.png
+  artifactKey: Guid(5a63e931255ab3043a9aec2a315b323f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Top.png using Guid(5a63e931255ab3043a9aec2a315b323f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8ff9a61c9a742df7f64b52fab60d49') in 0.009854 seconds
+  Import took 0.014628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Heart Pop.png
+  artifactKey: Guid(1e1877c27e51cc24395620020cc09681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Heart Pop.png using Guid(1e1877c27e51cc24395620020cc09681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50326e13658267908c37574fda4b3b63') in 0.016842 seconds
+  Import took 0.021662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Instagram.png
+  artifactKey: Guid(3d3f575454863be41b91df501a5466e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Instagram.png using Guid(3d3f575454863be41b91df501a5466e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0fc51f3e4316b358adad781e582cf6') in 0.012936 seconds
+  Import took 0.015507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Web & Cloud/Cloud Upload.png
+  artifactKey: Guid(df1c8663f5baa9d4e9260ffd0b6dd85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Web & Cloud/Cloud Upload.png using Guid(df1c8663f5baa9d4e9260ffd0b6dd85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac904083e08d7599c1d9db671496dcc') in 0.017811 seconds
+  Import took 0.021231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Bottom.png
+  artifactKey: Guid(b891d65ba4d76704b8d265e52bacdb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Bottom.png using Guid(b891d65ba4d76704b8d265e52bacdb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7609c617da9f59396bba9cbae8947f') in 0.014538 seconds
+  Import took 0.018714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000963 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Crop.png
+  artifactKey: Guid(4a4cdd1b816f2c14e8f99597ac619de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Crop.png using Guid(4a4cdd1b816f2c14e8f99597ac619de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfd9637f3de67a4da122ab690b4f4ce') in 0.011853 seconds
+  Import took 0.015973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Demigiant/DOTweenPro Examples/Examples Assets/dotweenpro_logo.png
+  artifactKey: Guid(44a054df1702e39458b7072b08d0f212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demigiant/DOTweenPro Examples/Examples Assets/dotweenpro_logo.png using Guid(44a054df1702e39458b7072b08d0f212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b459ecbfa942aa7e0dabc1a22c0201a6') in 0.021787 seconds
+  Import took 0.024599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Help.png
+  artifactKey: Guid(49702278c78c41648bcf38cd04605d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Help.png using Guid(49702278c78c41648bcf38cd04605d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090046ce6336403e9636f9b7ee80dd0b') in 0.015230 seconds
+  Import took 0.017729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Heart.png
+  artifactKey: Guid(bd190f341a63ae7449752d80a3a8ef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Heart.png using Guid(bd190f341a63ae7449752d80a3a8ef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c666a6a0ba49e9abc1bda197d947d481') in 0.017192 seconds
+  Import took 0.019711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Lamp.png
+  artifactKey: Guid(6ca804909faea644aa355ec5c5a9e1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Lamp.png using Guid(6ca804909faea644aa355ec5c5a9e1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de212b472df2f223c1dec92e1ea40e5') in 0.012664 seconds
+  Import took 0.014908 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000423 seconds.
-  path: Assets/Scenes/main.unity
-  artifactKey: Guid(c40d844b3dc73914d8d9676df86eb7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/main.unity using Guid(c40d844b3dc73914d8d9676df86eb7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9067ccbbe7029769d51aa14a1bb1abd') in 0.031707 seconds
-  Import took 0.034762 seconds .
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/Unity Tanks/Sprites/Health Wheel.png
+  artifactKey: Guid(c7dd97e9cd879304795b366cbf187bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/Unity Tanks/Sprites/Health Wheel.png using Guid(c7dd97e9cd879304795b366cbf187bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c9affb7405023f26934fc2b26ef182') in 0.019343 seconds
+  Import took 0.022559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Basic/GUI Skin - Button Pressed.png
+  artifactKey: Guid(55df7c0e2aab60c438ae7184c5438d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Basic/GUI Skin - Button Pressed.png using Guid(55df7c0e2aab60c438ae7184c5438d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d077111df956bc186b2c7ffb44f34cc') in 0.014593 seconds
+  Import took 0.021849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Reward/Cup.png
+  artifactKey: Guid(65a1928224b8541439b433a52ea9c3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Reward/Cup.png using Guid(65a1928224b8541439b433a52ea9c3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e5513e6fac72f1b16801be31d74e02') in 0.016199 seconds
+  Import took 0.019282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/CratePinkGridSprite.png
+  artifactKey: Guid(12ef7cbdfe0e143fa858a324456c8979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Example Scenes/Files/2D/Sprites/CratePinkGridSprite.png using Guid(12ef7cbdfe0e143fa858a324456c8979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208f5eefc9f387b096c53fcb50fc40ac') in 0.015119 seconds
+  Import took 0.017417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message.png
+  artifactKey: Guid(f4bd70bd7d1d65a448438dc918ac4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message.png using Guid(f4bd70bd7d1d65a448438dc918ac4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1ca64cb35a6af955456a2fbc83f55a') in 0.011948 seconds
+  Import took 0.014112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 10px (x64).png
+  artifactKey: Guid(5e9e4e8984cc68e4aa19df6bf330fb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 10px (x64).png using Guid(5e9e4e8984cc68e4aa19df6bf330fb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46c34a81f52d21f2fe1fd1f8ae1f67c') in 0.018145 seconds
+  Import took 0.020659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Time/Clock.png
+  artifactKey: Guid(1e41e49e206bc2947b8943351eed53d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Time/Clock.png using Guid(1e41e49e206bc2947b8943351eed53d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd725bb0efeb7defce2e4e0da3e0c0ca') in 0.013738 seconds
+  Import took 0.015906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 8px (x128).png
+  artifactKey: Guid(ac049f791a8c4034cbe79f6d5fea0c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 8px (x128).png using Guid(ac049f791a8c4034cbe79f6d5fea0c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607511bc9ff536b9c73fb40d47d3c6bb') in 0.017329 seconds
+  Import took 0.020294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 14px.png
+  artifactKey: Guid(c8d56a8699823ca46aa7eda6801a483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 14px.png using Guid(c8d56a8699823ca46aa7eda6801a483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c444284236da7621fa739aee2c3ad3') in 0.023725 seconds
+  Import took 0.026743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Facebook.png
+  artifactKey: Guid(1e64f8ba631ae514e9a68eaf3620f9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Facebook.png using Guid(1e64f8ba631ae514e9a68eaf3620f9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bd7e9cdef2dd5e943002a5640cdc8a') in 0.011758 seconds
+  Import took 0.014692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Web & Cloud/Cloud Download.png
+  artifactKey: Guid(1ea85de2838985240b3462e0391af06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Web & Cloud/Cloud Download.png using Guid(1ea85de2838985240b3462e0391af06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5c95cca212838c7794130caaae6003') in 0.017278 seconds
+  Import took 0.020255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Eye.png
+  artifactKey: Guid(e07717fc47a510742ac0b11da205b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Eye.png using Guid(e07717fc47a510742ac0b11da205b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a8c7e1e223bf71b19d399b302b057d') in 0.013496 seconds
+  Import took 0.015960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Panel Seperator.png
+  artifactKey: Guid(8a29ea69779d0a84b9d1f6aeffcf9069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Panel Seperator.png using Guid(8a29ea69779d0a84b9d1f6aeffcf9069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddaa914a12eeadc7c92b4591802d752a') in 0.017758 seconds
+  Import took 0.019877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Map/Location Mark.png
+  artifactKey: Guid(800d082fc01ca114f86956479395844d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Map/Location Mark.png using Guid(800d082fc01ca114f86956479395844d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9a8ddea564bb5a6cc91da9eafb8d33') in 0.011560 seconds
+  Import took 0.014461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Commerce/Dollar.png
+  artifactKey: Guid(87258a2e98839004986e33d9a04e825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Commerce/Dollar.png using Guid(87258a2e98839004986e33d9a04e825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551fa4ff0e0f21d2f8928504ce54d6e3') in 0.016267 seconds
+  Import took 0.021774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000739 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Map/Globe.png
+  artifactKey: Guid(c7353b93c0ea87c46af8eba38a20a636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Map/Globe.png using Guid(c7353b93c0ea87c46af8eba38a20a636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbc1b5519b409d5c5ab4c993c5beb25') in 0.015903 seconds
+  Import took 0.020642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Basic/GUI Skin - Button Normal.png
+  artifactKey: Guid(d88b03a7da3ddc84b882c452fd42f025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Basic/GUI Skin - Button Normal.png using Guid(d88b03a7da3ddc84b882c452fd42f025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166d9230713f1d8331581700164188e1') in 0.012950 seconds
+  Import took 0.016061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Music.png
+  artifactKey: Guid(3881a589da314734096a8ebe09c4e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Music.png using Guid(3881a589da314734096a8ebe09c4e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be4bff7ed89edd1dcd22438868eca14') in 0.020180 seconds
+  Import took 0.022567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Email.png
+  artifactKey: Guid(7d891b18332e2174a97d6f6588bca6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Email.png using Guid(7d891b18332e2174a97d6f6588bca6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc4ca47057f4954c8fa493cbafa7e3b') in 0.011336 seconds
+  Import took 0.013970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Weather/Cloud.png
+  artifactKey: Guid(bc0864921c7e0414589ef446c7a3b94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Weather/Cloud.png using Guid(bc0864921c7e0414589ef446c7a3b94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6830e057b0f4fb2dde8882527387e8') in 0.016716 seconds
+  Import took 0.019390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Home.png
+  artifactKey: Guid(b7414fdd0411d364ab74c963a05b62d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Home.png using Guid(b7414fdd0411d364ab74c963a05b62d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd6cbf4d1ddde98f83577a12a26a4c4') in 0.012742 seconds
+  Import took 0.015282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 12px.png
+  artifactKey: Guid(4d524fbec1ad7524f8e44324e211e893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 12px.png using Guid(4d524fbec1ad7524f8e44324e211e893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52fdc0f9e77651a6ab72e77c91479f1') in 0.017581 seconds
+  Import took 0.020549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Discord.png
+  artifactKey: Guid(b6b68c8c37d5cf1419267a80c426ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Discord.png using Guid(b6b68c8c37d5cf1419267a80c426ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477839664df93db0001cf52fa942b06f') in 0.011313 seconds
+  Import took 0.018136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Expand.png
+  artifactKey: Guid(8dcd5f373cd25944eb819fc6795f9dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Expand.png using Guid(8dcd5f373cd25944eb819fc6795f9dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5949727d6562ea4ad8bd18498a4bbd12') in 0.014876 seconds
+  Import took 0.021507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline Dash - Stroke 3px.png
+  artifactKey: Guid(24de22fe090ea2a4b932c13f1b3be37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline Dash - Stroke 3px.png using Guid(24de22fe090ea2a4b932c13f1b3be37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7c01981201997ce494947e6085ecf6') in 0.015005 seconds
+  Import took 0.017612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Crop Filled.png
+  artifactKey: Guid(28865e3766dc95c45b0a5720af378d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Crop Filled.png using Guid(28865e3766dc95c45b0a5720af378d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30aa1a17ab05c5433d2b39fecbd31c73') in 0.016344 seconds
+  Import took 0.018919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Reward/Medal.png
+  artifactKey: Guid(038ccab8cd184d04cb1bfa1d79704320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Reward/Medal.png using Guid(038ccab8cd184d04cb1bfa1d79704320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd1a58d8fe09bbb323f7788f7da7a88') in 0.018431 seconds
+  Import took 0.020656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Modern UI Pack/Textures/Demo/Demo Welcome.png
+  artifactKey: Guid(d922a2264ecd0c04987a0589859c321c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Demo/Demo Welcome.png using Guid(d922a2264ecd0c04987a0589859c321c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370b2b88b4c5a5fe06eb673ff9c16d56') in 0.034841 seconds
+  Import took 0.039817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Document.png
+  artifactKey: Guid(ff85d7dda4124104e9ed87a401189bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Document.png using Guid(ff85d7dda4124104e9ed87a401189bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98679a3555fde5eb3f3216881c7c5370') in 0.014616 seconds
+  Import took 0.017022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 16px.png
+  artifactKey: Guid(aa2a89f62c544a54692da9f0c22a44e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 16px.png using Guid(aa2a89f62c544a54692da9f0c22a44e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3a3bd1143229776ce66ba8cf58f0bd') in 0.016153 seconds
+  Import took 0.018626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 20px.png
+  artifactKey: Guid(eb5b293700185344e9c5653bb0e49c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 20px.png using Guid(eb5b293700185344e9c5653bb0e49c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817dbda4819a57e649dafa44d4422bc2') in 0.020529 seconds
+  Import took 0.023571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Heart Filled.png
+  artifactKey: Guid(a40e131b61d22ba42b2955962e636ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Heart Filled.png using Guid(a40e131b61d22ba42b2955962e636ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93847e37443784714a4a9078d7a96eb5') in 0.012201 seconds
+  Import took 0.017866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow.png
+  artifactKey: Guid(390f1c7c5c2f9714d8458c01651acdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow.png using Guid(390f1c7c5c2f9714d8458c01651acdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605325c010ae8f5c298d7b02baf85518') in 0.011167 seconds
+  Import took 0.015841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Lock.png
+  artifactKey: Guid(cacaf83c4f5642244a1e47f13500c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Lock.png using Guid(cacaf83c4f5642244a1e47f13500c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d59236965e84cb2be2ed505b463ead2') in 0.016446 seconds
+  Import took 0.023346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 8px.png
+  artifactKey: Guid(9421aca318e009a4792d1bb95480e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 8px.png using Guid(9421aca318e009a4792d1bb95480e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99bec54e37edc3e16d3ae78f0719d2f') in 0.011645 seconds
+  Import took 0.013981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 5px.png
+  artifactKey: Guid(0dba7f4bcc17ba64a8acc762f75a6050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 5px.png using Guid(0dba7f4bcc17ba64a8acc762f75a6050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751dd10b0c9a0eb9c792ff175a3a42b4') in 0.021246 seconds
+  Import took 0.023729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Map/Map.png
+  artifactKey: Guid(4b307c9f1eae5644a865e61b227b969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Map/Map.png using Guid(4b307c9f1eae5644a865e61b227b969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb03cd1d712b0d9de7063266e3e3a50') in 0.018838 seconds
+  Import took 0.021729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Folder.png
+  artifactKey: Guid(03e3778d7fcbf9243a5787a6adac408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Folder.png using Guid(03e3778d7fcbf9243a5787a6adac408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b325d7391efae5a895ca276c2d73795') in 0.011858 seconds
+  Import took 0.014577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 10px.png
+  artifactKey: Guid(6b0161e21a59dc14e96feff1ada41989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 10px.png using Guid(6b0161e21a59dc14e96feff1ada41989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f16bf8d7b1d1778d4ffff469ea3111') in 0.016310 seconds
+  Import took 0.019279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 18px.png
+  artifactKey: Guid(193385f2143dfe14ba7e5bf010526989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Circles/Circle Outline - Stroke 18px.png using Guid(193385f2143dfe14ba7e5bf010526989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6258aef080ebee6b9849e525c785a5eb') in 0.018728 seconds
+  Import took 0.021189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Headphones.png
+  artifactKey: Guid(b72c64868a74dd04e9b605a346744fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Headphones.png using Guid(b72c64868a74dd04e9b605a346744fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412d537f0ee015dd71b4b4adcb2adeff') in 0.015189 seconds
+  Import took 0.017988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Lock Open.png
+  artifactKey: Guid(419159ae31cba984092b4c00d435a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Lock Open.png using Guid(419159ae31cba984092b4c00d435a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6fd100c4d9d8ef4a12b59b05035ae5') in 0.014545 seconds
+  Import took 0.017069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Plus.png
+  artifactKey: Guid(66995b6b61aed864daa956ae255d7fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Plus.png using Guid(66995b6b61aed864daa956ae255d7fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1e39342ae4a9c99db4a45e0cd85c5a') in 0.021110 seconds
+  Import took 0.023317 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 73.0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 5.776900 ms (FindLiveObjects: 0.276100 ms CreateObjectMapping: 0.095800 ms MarkObjects: 1.715800 ms  DeleteObjects: 3.687600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 419.130956 seconds.
+  path: Assets/Amazing Assets/Curved World/Documentation
+  artifactKey: Guid(8542d43eaf3b2044884cfb3008f6f0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Documentation using Guid(8542d43eaf3b2044884cfb3008f6f0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9617f487d809d52cd897d18838ae288e') in 0.008221 seconds
+  Import took 0.011078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.801002 seconds.
+  path: Assets/Amazing Assets/Curved World/Documentation/Manual.pdf
+  artifactKey: Guid(4ada9b30dfdd0df4cb63188c767868c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amazing Assets/Curved World/Documentation/Manual.pdf using Guid(4ada9b30dfdd0df4cb63188c767868c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f9b45e149b88858324d7b62ecd6021') in 0.013651 seconds
+  Import took 0.016339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.945519 seconds.
+  path: Assets/Greed Games/Scenes/Main Scene.unity
+  artifactKey: Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scenes/Main Scene.unity using Guid(a6e32754d94ed8b4fa3a5ac69d43a80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e302801d063b788204c7d78b63cbd4') in 0.006793 seconds
+  Import took 0.010442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.754585 seconds.
+  path: Assets/Greed Games/Scripts
+  artifactKey: Guid(affb239d10f0b894793afa95723da1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts using Guid(affb239d10f0b894793afa95723da1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadc073e31cae04ce0b3cd7750368b72') in 0.007637 seconds
+  Import took 0.010722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001921 seconds.
+  path: Assets/Greed Games/Scripts
+  artifactKey: Guid(affb239d10f0b894793afa95723da1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts using Guid(affb239d10f0b894793afa95723da1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadc073e31cae04ce0b3cd7750368b72') in 0.002103 seconds
+  Import took 0.004633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.277520 seconds.
+  path: Assets/Greed Games/Scripts/InputHandler.cs
+  artifactKey: Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts/InputHandler.cs using Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debebe0b0ba576cad3297663b159ba94') in 0.017705 seconds
+  Import took 0.021186 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1877.
+Total: 4.438800 ms (FindLiveObjects: 0.177200 ms CreateObjectMapping: 0.056000 ms MarkObjects: 1.493700 ms  DeleteObjects: 2.711200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002354 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1880.
+Total: 4.447700 ms (FindLiveObjects: 0.203600 ms CreateObjectMapping: 0.076900 ms MarkObjects: 1.334400 ms  DeleteObjects: 2.829600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 352.226505 seconds.
+  path: Assets/Greed Games/Scripts/InputHandler.cs
+  artifactKey: Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts/InputHandler.cs using Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fe0fdeb770c4fd564e13afa3b2c7f7') in 0.006421 seconds
+  Import took 0.009243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024989 seconds.
+  path: Assets/Greed Games/Scripts/InputHandler.cs
+  artifactKey: Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts/InputHandler.cs using Guid(be6676ebb4ecd3b48b17cf4a68d49f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fe0fdeb770c4fd564e13afa3b2c7f7') in 0.001753 seconds
+  Import took 0.004218 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003874 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1883.
+Total: 7.608500 ms (FindLiveObjects: 0.274600 ms CreateObjectMapping: 0.100700 ms MarkObjects: 3.535200 ms  DeleteObjects: 3.696600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1886.
+Total: 4.669900 ms (FindLiveObjects: 0.390600 ms CreateObjectMapping: 0.117200 ms MarkObjects: 1.473500 ms  DeleteObjects: 2.687400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002329 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 4.581600 ms (FindLiveObjects: 0.244300 ms CreateObjectMapping: 0.135200 ms MarkObjects: 1.454200 ms  DeleteObjects: 2.745100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002444 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1892.
+Total: 4.829300 ms (FindLiveObjects: 0.328300 ms CreateObjectMapping: 0.135800 ms MarkObjects: 1.555700 ms  DeleteObjects: 2.807800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 4.751300 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.094000 ms MarkObjects: 1.574700 ms  DeleteObjects: 2.808700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1898.
+Total: 5.638000 ms (FindLiveObjects: 0.317800 ms CreateObjectMapping: 0.080200 ms MarkObjects: 1.618000 ms  DeleteObjects: 3.620400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1901.
+Total: 4.493100 ms (FindLiveObjects: 0.308900 ms CreateObjectMapping: 0.072300 ms MarkObjects: 1.386900 ms  DeleteObjects: 2.723300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1904.
+Total: 4.520800 ms (FindLiveObjects: 0.455700 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.364100 ms  DeleteObjects: 2.589800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1907.
+Total: 4.310100 ms (FindLiveObjects: 0.197600 ms CreateObjectMapping: 0.051400 ms MarkObjects: 1.361100 ms  DeleteObjects: 2.698900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002317 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1910.
+Total: 4.438300 ms (FindLiveObjects: 0.188000 ms CreateObjectMapping: 0.054900 ms MarkObjects: 1.377700 ms  DeleteObjects: 2.816700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1913.
+Total: 6.319500 ms (FindLiveObjects: 0.341500 ms CreateObjectMapping: 0.119000 ms MarkObjects: 1.872000 ms  DeleteObjects: 3.985200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1429.289017 seconds.
+  path: Assets/Greed Games/Scripts/PlayerMove.cs
+  artifactKey: Guid(9253e0dfac489f949b761d9d7386aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts/PlayerMove.cs using Guid(9253e0dfac489f949b761d9d7386aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122b44e279ae766db2f866b3039aeb76') in 0.010042 seconds
+  Import took 0.018561 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1340 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.2 MB.
+System memory in use after: 73.2 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 4.428800 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.291600 ms  DeleteObjects: 2.817900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1002.882998 seconds.
+  path: Assets/Greed Games/Scripts/PlayerMove.cs
+  artifactKey: Guid(9253e0dfac489f949b761d9d7386aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greed Games/Scripts/PlayerMove.cs using Guid(9253e0dfac489f949b761d9d7386aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0e2427998b622959be7e3a69b5ce87') in 0.004478 seconds
+  Import took 0.007845 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
